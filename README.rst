@@ -1,5 +1,5 @@
-Flask app to embed a bokeh server app
-=====================================
+Flask app with bokeh push_session and autoload_server
+=====================================================
 
 Trying to demonstrate push_session and autoload_server usage.
 
