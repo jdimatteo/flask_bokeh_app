@@ -1,7 +1,9 @@
-Flask app with bokeh push_session and autoload_server
+Flask app with bokeh push_session, autoload_server, and widgets
 =====================================================
 
-Demonstrate push_session and autoload_server usage.
+Trying to get push_session, autoload_server, and widgets to work. 
+
+The update_title call back is not called when the text changes.
 
 In one terminal, run bokeh server::
 
