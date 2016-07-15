@@ -1,13 +1,9 @@
-Flask app with bokeh push_session and autoload_server
-=====================================================
+Flask app with bokeh plot in bootstrap carousel 
+===============================================
 
-Demonstrate push_session and autoload_server usage.
+Demonstrate bokeh plot toolbar rendering issue with bootstrap carousel.
 
-In one terminal, run bokeh server::
-
-    $ bokeh serve --host localhost:5000 --host localhost:5006
-
-In another window, run flask::
+In terminal, run flask::
 
     $ export FLASK_APP=app.py
     $ flask run
